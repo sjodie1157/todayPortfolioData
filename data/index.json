@@ -69,8 +69,15 @@
     ],
     "review": [
         {
+            "id":1,
             "persImage": "https://example.com/person-image.jpg",
-            "persName": "Person Name",
+            "persName": "jeff",
+            "persComment": "A positive review/comment about the work."
+        },
+        {
+            "id":2,
+            "persImage": "https://example.com/person-image.jpg",
+            "persName": "peter",
             "persComment": "A positive review/comment about the work."
         }
     ],
