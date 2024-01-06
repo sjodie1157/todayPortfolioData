@@ -3,7 +3,7 @@
         {
             "name": "Jodie",
             "surname": "Smith",
-            "jobTitle": "Aspiering Front-end Developer"
+            "jobTitle": "Aspiring Front-end Developer"
         },
         {
             "profImg": "https://drive.google.com/uc?id=1Jz44JaWN-_8-MMLrNNOPfYAzmz3i2zE6"
@@ -23,52 +23,52 @@
             "year": 2019,
             "description": "N.S.C (bachelor Pass)",
             "place": "Grassdale High School",
-            "certificate":""
+            "certificate": ""
         },
         {
             "id": 2,
             "year": 2020,
-            "description": "I.T Administrator & Operations Egineer",
+            "description": "I.T Administrator & Operations Engineer",
             "place": "Grassdale High School",
-            "certificate":""
+            "certificate": ""
         },
         {
             "id": 3,
             "year": 2022,
             "description": "CompTIA A+",
             "place": "Alison.com",
-            "certificate":""
+            "certificate": ""
         },
         {
             "id": 4,
             "year": 2023,
             "description": "Computer Networking - Wired and Wireless Networks and Protocols",
             "place": "Alison.com",
-            "certificate":""
+            "certificate": ""
         },
         {
             "id": 5,
             "year": "Current",
             "description": "Coding Student",
             "place": "Life Choices Academy",
-            "certificate":""
+            "certificate": ""
         }
     ],
     "projects": [
         {
             "id": 1,
-            "projImage": "",
-            "projName": "",
-            "projDisc": "",
-            "githubLink": "",
-            "netlifyLink": ""
+            "projImage": "https://example.com/project-image.jpg",
+            "projName": "Project Name",
+            "projDisc": "Project Description",
+            "githubLink": "https://github.com/yourusername/project-repo",
+            "netlifyLink": "https://netlify.com/project-link"
         }
     ],
     "review": [
         {
-            "persImage": "",
-            "persName": "",
-            "persComment": ""
+            "persImage": "https://example.com/person-image.jpg",
+            "persName": "Person Name",
+            "persComment": "A positive review/comment about the work."
         }
     ],
     "contact": [
