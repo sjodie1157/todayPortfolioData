@@ -72,13 +72,19 @@
             "id":1,
             "persImage": "https://i.postimg.cc/ZRTbhYvj/istockphoto-1147544807-612x612.jpg",
             "persName": "jeff",
-            "persComment": "A positive review/comment about the work."
+            "persComment": "A positive review/comment about the work 0."
         },
         {
             "id":2,
-            "persImage": "https://example.com/person-image.jpg",
+            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
             "persName": "peter",
-            "persComment": "A positive review/comment about the work."
+            "persComment": "A positive review/comment about the work 1."
+        },
+        {
+            "id":3,
+            "persImage": "https://i.postimg.cc/26QVYX5F/images.png",
+            "persName": "john",
+            "persComment": "A positive review/comment about the work 2."
         }
     ],
     "contact": [
