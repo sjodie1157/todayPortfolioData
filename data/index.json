@@ -60,11 +60,11 @@
     "projects": [
         {
             "id": 1,
-            "projImage": "https://i.postimg.cc/tT68gzqR/Whats-App-Image-2023-10-10-at-19-08-40.jpg",
-            "projName": "Project Name",
-            "projDisc": "Project Description",
-            "githubLink": "https://github.com/yourusername/project-repo",
-            "netlifyLink": "https://netlify.com/project-link"
+            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projName": "Modern Muse",
+            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://modern-muse.netlify.app"
         }
     ],
     "review": [
