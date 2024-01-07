@@ -65,6 +65,14 @@
             "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
             "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
             "netlifyLink": "https://modern-muse.netlify.app"
+        },
+        {
+            "id": 2,
+            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projName": "Modern Muse",
+            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://modern-muse.netlify.app"
         }
     ],
     "review": [
