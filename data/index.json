@@ -6,10 +6,10 @@
             "jobTitle": "Aspiring Front-end Developer"
         },
         {
-            "profImg": "https://drive.google.com/uc?id=1Jz44JaWN-_8-MMLrNNOPfYAzmz3i2zE6"
+            "profImg": "https://i.postimg.cc/GhnH9Q1B/professional-image-art.png"
         },
         {
-            "profImaArt": "https://drive.google.com/uc?id=1NHxe7HVspv2PHIVmeKldMBGYFCMemulU"
+            "profImaArt": "https://i.postimg.cc/vZ3Bqwx9/professional-image.png"
         }
     ],
     "about": [
@@ -17,7 +17,7 @@
             "aboutParagraph": "My work ethic as a programmer is characterized by dedication, discipline, and a passion for continuous improvement. I approach every project with a strong sense of responsibility, always striving to meet deadlines and exceed expectations. I firmly believe in the importance of thorough planning and organization, which helps me streamline my work process and maintain a high level of productivity"
         },
         {
-            "profImaArt": "https://drive.google.com/uc?id=1NHxe7HVspv2PHIVmeKldMBGYFCMemulU"
+            "profImaArt": "https://i.postimg.cc/vZ3Bqwx9/professional-image.png"
         }
     ],
     "resume": [
@@ -60,64 +60,64 @@
     "projects": [
         {
             "id": 1,
-            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projImage": "https://i.postimg.cc/mrkrKp7n/modern-Muse-img1.png",
             "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "projDisc": "This is a mini E-commerse of a store selling formal wear. It was coded using Bootstrap, Javascript, CSS and Html",
             "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
             "netlifyLink": "https://modern-muse.netlify.app"
         },
         {
             "id": 2,
-            "projImage": "https://i.postimg.cc/SNMK3JbB/Screenshot-2023-11-02-090512.png",
-            "projName": "Gameonopolis",
-            "projDisc": "This is a mini E-commerse Built using CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
-            "netlifyLink": "https://gameonopolis.netlify.app"
+            "projImage": "https://i.postimg.cc/ncxhnhvB/portfolio-Css.png",
+            "projName": "CSS Portfolio",
+            "projDisc": "This is my first portfolio. It was coded using CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/portfolio-draft-1.git",
+            "netlifyLink": "https://jodie-smith.netlify.app"
         },
         {
             "id": 3,
-            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
-            "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
-            "netlifyLink": "https://modern-muse.netlify.app"
+            "projImage": "https://i.postimg.cc/Z5Mmvbyf/Gamonopolis.png",
+            "projName": "Gamonopolis",
+            "projDisc": "This is a mini E-commerse of a gaming company. It was coded using Bootstrap, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/E-commerce-new.git",
+            "netlifyLink": "https://gameonopolis.netlify.app"
         },
         {
             "id": 4,
-            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
-            "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
-            "netlifyLink": "https://modern-muse.netlify.app"
+            "projImage": "https://i.postimg.cc/gjsFzmWH/Netflix-demo.png",
+            "projName": "Netflix Demo",
+            "projDisc": "This is a netflix demo. It was coded using Bootstrap, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Netflix.git",
+            "netlifyLink": "https://stupendous-alfajores-b86639.netlify.app"
         },
         {
             "id": 5,
-            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
-            "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
-            "netlifyLink": "https://modern-muse.netlify.app"
+            "projImage": "https://i.postimg.cc/YChKH5yQ/Realistic-keyboard.png",
+            "projName": "Realistic Laptop Keyboard",
+            "projDisc": "This is a realistic lonovo keayboard layout. It was coded using CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/laptopKeyboard.git",
+            "netlifyLink": "https://merry-sprite-2b15ed.netlify.app"
         },
         {
             "id": 6,
-            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
-            "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
-            "netlifyLink": "https://modern-muse.netlify.app"
+            "projImage": "https://i.postimg.cc/sxv9XJFH/Calculator.png",
+            "projName": "Calculator",
+            "projDisc": "This is a calculator coded using Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/calculator.git",
+            "netlifyLink": "https://sensational-crumble-c919d7.netlify.app"
         }
     ],
     "review": [
         {
             "id":1,
             "persImage": "https://i.postimg.cc/ZRTbhYvj/istockphoto-1147544807-612x612.jpg",
-            "persName": "Joel M",
+            "persName": "Joel Mukanya",
             "persComment": "Jodie is a creative, hard-working, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.."
         },
         {
             "id":2,
             "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
-            "persName": "peter",
+            "persName": "Zubair Moerat",
             "persComment": "A positive review/comment about the work 1."
         },
         {
