@@ -68,6 +68,38 @@
         },
         {
             "id": 2,
+            "projImage": "https://i.postimg.cc/SNMK3JbB/Screenshot-2023-11-02-090512.png",
+            "projName": "Gameonopolis",
+            "projDisc": "This is a mini E-commerse Built using CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://gameonopolis.netlify.app"
+        },
+        {
+            "id": 3,
+            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projName": "Modern Muse",
+            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://modern-muse.netlify.app"
+        },
+        {
+            "id": 4,
+            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projName": "Modern Muse",
+            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://modern-muse.netlify.app"
+        },
+        {
+            "id": 5,
+            "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
+            "projName": "Modern Muse",
+            "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
+            "netlifyLink": "https://modern-muse.netlify.app"
+        },
+        {
+            "id": 6,
             "projImage": "https://i.postimg.cc/C1yPQJdV/site-1.png",
             "projName": "Modern Muse",
             "projDisc": "This is a mini E-commerse Built using Bootstrap, Javascript, CSS and Html",
@@ -79,8 +111,8 @@
         {
             "id":1,
             "persImage": "https://i.postimg.cc/ZRTbhYvj/istockphoto-1147544807-612x612.jpg",
-            "persName": "jeff",
-            "persComment": "A positive review/comment about the work 0."
+            "persName": "Joel M",
+            "persComment": "Jodie is a creative, hard-working, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.."
         },
         {
             "id":2,
@@ -90,6 +122,24 @@
         },
         {
             "id":3,
+            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
+            "persName": "peter",
+            "persComment": "A positive review/comment about the work 1."
+        },
+        {
+            "id":4,
+            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
+            "persName": "peter",
+            "persComment": "A positive review/comment about the work 1."
+        },
+        {
+            "id":5,
+            "persImage": "https://i.postimg.cc/26QVYX5F/images.png",
+            "persName": "john",
+            "persComment": "A positive review/comment about the work 2."
+        },
+        {
+            "id":6,
             "persImage": "https://i.postimg.cc/26QVYX5F/images.png",
             "persName": "john",
             "persComment": "A positive review/comment about the work 2."
