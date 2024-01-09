@@ -110,27 +110,27 @@
     "review": [
         {
             "id":1,
-            "persImage": "https://i.postimg.cc/ZRTbhYvj/istockphoto-1147544807-612x612.jpg",
+            "persImage": "https://i.postimg.cc/QxF8r1j0/joelM.jpg",
             "persName": "Joel Mukanya",
             "persComment": "Jodie is a creative, hard-working, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.."
         },
         {
             "id":2,
-            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
+            "persImage": "https://i.postimg.cc/9Mw6ntd7/portfolio.jpg",
             "persName": "Zubair Moerat",
-            "persComment": "A positive review/comment about the work 1."
+            "persComment": "I highly recommend Jodie Smith as a software developer. His technical expertise, commitment to quality, and strong communication skills makes him an asset to any team. I look forward to the opportunity to work with him again in the future."
         },
         {
             "id":3,
-            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
-            "persName": "peter",
-            "persComment": "A positive review/comment about the work 1."
+            "persImage": "https://i.postimg.cc/g0mbrZP9/Screenshot-2023-10-30-101404.png",
+            "persName": "Ni-shaat Gafieldien",
+            "persComment": "Jodie Smith is an invigorating individual. His work ethic is second to none. He is dedicated, talented and in a class of his own. I look forward to collaborating with him again in the future."
         },
         {
             "id":4,
-            "persImage": "https://i.postimg.cc/G3Pyn98w/user-image-l-3x.png",
-            "persName": "peter",
-            "persComment": "A positive review/comment about the work 1."
+            "persImage": "https://i.postimg.cc/pdCB2b3j/IMG-20220503-WA0117-109.jpg",
+            "persName": "Luqmaan Toffey",
+            "persComment": "When I met Jodie, immediately it became apparent that he has a history with computers. In the short span of 3 days, he unknowingly took me to heights I never knew existed. However, even though he's quite competent, he never misses an opportunity to better himself. Truly one of the most intellectual and humble men you will ever meet. What a privilege it has been to work along side him."
         },
         {
             "id":5,
