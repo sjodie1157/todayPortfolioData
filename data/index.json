@@ -135,13 +135,13 @@
         {
             "id":5,
             "persImage": "https://i.postimg.cc/26QVYX5F/images.png",
-            "persName": "john",
+            "persName": "Tamlin Leigh Geyer",
             "persComment": "Jodie Smith is an extraordinary fullstack developer whose technical prowess is matched only by her unwavering dedication to excellence. His ability to seamlessly navigate complex coding challenges and deliver elegant solutions is truly commendable. Beyond his technical brilliance, Jodie's collaborative spirit and infectious enthusiasm make him not just a valued colleague but also a cherished friend in the world of software development."
         },
         {
             "id":6,
             "persImage": "https://i.postimg.cc/26QVYX5F/images.png",
-            "persName": "Tamlin Leigh Geyer",
+            "persName": "Person",
             "persComment": "A positive review/comment about the work 2."
         }
     ],
