@@ -60,6 +60,14 @@
     "projects": [
         {
             "id": 1,
+            "projImage": "https://i.postimg.cc/rwh5nVYC/image-2024-03-26-220959374.png",
+            "projName": "Technoflex-zone",
+            "projDisc": "This is a mini E-commerse of a store selling Gaming console's and Laptops. It was coded using Bootstrap, VueJS, CSS and Html in the frontend, aswell as Mysql databases for the backend",
+            "githubLink": "https://github.com/sjodie1157/nodeEOMP.git",
+            "netlifyLink": "https://technoflexzone-9e840.web.app"
+        },
+        {
+            "id": 2,
             "projImage": "https://i.postimg.cc/mrkrKp7n/modern-Muse-img1.png",
             "projName": "Modern Muse",
             "projDisc": "This is a mini E-commerse of a store selling formal wear. It was coded using Bootstrap, Javascript, CSS and Html",
@@ -67,7 +75,7 @@
             "netlifyLink": "https://modern-muse.netlify.app"
         },
         {
-            "id": 2,
+            "id": 3,
             "projImage": "https://i.postimg.cc/ncxhnhvB/portfolio-Css.png",
             "projName": "CSS Portfolio",
             "projDisc": "This is my first portfolio. It was coded using CSS and Html",
@@ -75,20 +83,12 @@
             "netlifyLink": "https://jodie-smith.netlify.app"
         },
         {
-            "id": 3,
+            "id": 4,
             "projImage": "https://i.postimg.cc/Z5Mmvbyf/Gamonopolis.png",
             "projName": "Gamonopolis",
             "projDisc": "This is a mini E-commerse of a gaming company. It was coded using Bootstrap, CSS and Html",
             "githubLink": "https://github.com/sjodie1157/E-commerce-new.git",
             "netlifyLink": "https://gameonopolis.netlify.app"
-        },
-        {
-            "id": 4,
-            "projImage": "https://i.postimg.cc/gjsFzmWH/Netflix-demo.png",
-            "projName": "Netflix Demo",
-            "projDisc": "This is a netflix demo. It was coded using Bootstrap, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/Netflix.git",
-            "netlifyLink": "https://stupendous-alfajores-b86639.netlify.app"
         },
         {
             "id": 5,
@@ -97,14 +97,6 @@
             "projDisc": "This is a realistic lonovo keayboard layout. It was coded using CSS and Html",
             "githubLink": "https://github.com/sjodie1157/laptopKeyboard.git",
             "netlifyLink": "https://merry-sprite-2b15ed.netlify.app"
-        },
-        {
-            "id": 6,
-            "projImage": "https://i.postimg.cc/sxv9XJFH/Calculator.png",
-            "projName": "Calculator",
-            "projDisc": "This is a calculator coded using Javascript, CSS and Html",
-            "githubLink": "https://github.com/sjodie1157/calculator.git",
-            "netlifyLink": "https://sensational-crumble-c919d7.netlify.app"
         }
     ],
     "review": [
@@ -147,9 +139,9 @@
     ],
     "contact": [
         {
-            "area": "Cape Town",
+            "area": "Cape Town Grassy Park",
             "email": "sjodie1157@gmail.com",
-            "cell": "073 052 7497"
+            "cell": "065 511 4726"
         }
     ]
 }
