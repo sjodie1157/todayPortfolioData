@@ -1,20 +1,12 @@
 {
-    "home": [
-        {
-            "name": "Jodie",
-            "surname": "Smith",
-            "jobTitle": "Aspiring Front-end Developer"
-        },
-        {
-            "profImg": "https://i.postimg.cc/GhnH9Q1B/professional-image-art.png"
-        },
-        {
-            "profImaArt": "https://i.postimg.cc/vZ3Bqwx9/professional-image.png"
-        },
-        {
-            "cv" : "https://drive.google.com/file/d/1B27AU5__stb3_XJ7x8mdHTfwG34JoH1B/view?usp=drive_link"
-        }
-    ],
+    "home": {
+        "name": "Jodie",
+        "surname": "Smith",
+        "jobTitle": "Aspiring Front-end Developer",
+        "profImg": "https://i.postimg.cc/GhnH9Q1B/professional-image-art.png",
+        "profImaArt": "https://i.postimg.cc/vZ3Bqwx9/professional-image.png",
+        "cv": "https://drive.google.com/file/d/1B27AU5__stb3_XJ7x8mdHTfwG34JoH1B/view?usp=drive_link"
+    },
     "about": [
         {
             "aboutParagraph": "My work ethic as a programmer is characterized by dedication, discipline, and a passion for continuous improvement. I approach every project with a strong sense of responsibility, always striving to meet deadlines and exceed expectations. I firmly believe in the importance of thorough planning and organization, which helps me streamline my work process and maintain a high level of productivity"
@@ -65,7 +57,7 @@
             "id": 1,
             "projImage": "https://i.postimg.cc/rwh5nVYC/image-2024-03-26-220959374.png",
             "projName": "Technoflex-zone",
-            "projDisc": "This is a mini E-commerse of a store selling Gaming console's and Laptops. It was coded using Bootstrap, VueJS, CSS and Html in the frontend, aswell as Mysql databases for the backend",
+            "projDisc": "This is a mini E-commerce store selling Gaming consoles and Laptops. It was coded using Bootstrap, VueJS, CSS, and Html in the frontend, as well as Mysql databases for the backend",
             "githubLink": "https://github.com/sjodie1157/nodeEOMP.git",
             "netlifyLink": "https://technoflexzone-9e840.web.app"
         },
@@ -73,7 +65,7 @@
             "id": 2,
             "projImage": "https://i.postimg.cc/mrkrKp7n/modern-Muse-img1.png",
             "projName": "Modern Muse",
-            "projDisc": "This is a mini E-commerse of a store selling formal wear. It was coded using Bootstrap, Javascript, CSS and Html",
+            "projDisc": "This is a mini E-commerce store selling formal wear. It was coded using Bootstrap, JavaScript, CSS, and Html",
             "githubLink": "https://github.com/sjodie1157/Modern-Muse.git",
             "netlifyLink": "https://modern-muse.netlify.app"
         },
@@ -89,7 +81,7 @@
             "id": 4,
             "projImage": "https://i.postimg.cc/Z5Mmvbyf/Gamonopolis.png",
             "projName": "Gamonopolis",
-            "projDisc": "This is a mini E-commerse of a gaming company. It was coded using Bootstrap, CSS and Html",
+            "projDisc": "This is a mini E-commerce store of a gaming company. It was coded using Bootstrap, CSS, and Html",
             "githubLink": "https://github.com/sjodie1157/E-commerce-new.git",
             "netlifyLink": "https://gameonopolis.netlify.app"
         },
@@ -97,7 +89,7 @@
             "id": 5,
             "projImage": "https://i.postimg.cc/YChKH5yQ/Realistic-keyboard.png",
             "projName": "Realistic Laptop Keyboard",
-            "projDisc": "This is a realistic lonovo keayboard layout. It was coded using CSS and Html",
+            "projDisc": "This is a realistic Lenovo keyboard layout. It was coded using CSS and Html",
             "githubLink": "https://github.com/sjodie1157/laptopKeyboard.git",
             "netlifyLink": "https://merry-sprite-2b15ed.netlify.app"
         }
