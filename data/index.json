@@ -21,7 +21,8 @@
             "year": 2019,
             "description": "N.S.C (bachelor Pass)",
             "place": "Grassdale High School",
-            "certificate": ""
+            "certificate": "",
+            "subjects": ["Mathematics", "English", "Afrikaans", "Life Science", "Physical Sciences", "C.A.T" ]
         },
         {
             "id": 2,
