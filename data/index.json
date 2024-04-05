@@ -101,6 +101,14 @@
             "projDisc": "This is a realistic Lenovo keyboard layout. It was coded using CSS and Html",
             "githubLink": "https://github.com/sjodie1157/laptopKeyboard.git",
             "netlifyLink": "https://merry-sprite-2b15ed.netlify.app"
+        },
+        {
+            "id": 6,
+            "projImage": "https://i.postimg.cc/MT4CnFZb/image-2024-04-05-122711084.png",
+            "projName": "Netflix Clone",
+            "projDisc": "This is netflix clone. It was coded using CSS and Html",
+            "githubLink": "https://github.com/sjodie1157/Netflix.git",
+            "netlifyLink": "https://stupendous-alfajores-b86639.netlify.app"
         }
     ],
     "review": [
