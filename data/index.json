@@ -50,7 +50,8 @@
             "year": 2024,
             "description": "Coding Student",
             "place": "Life Choices Academy",
-            "certificate": ""
+            "certificate": "",
+            "subjects": ["HTML", "CSS", "JavaScript", "Bootstrap", "NodeJS", "Mysql", "VueJS" ]
         },
         {
             "id": 6,
