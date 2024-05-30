@@ -9,7 +9,7 @@
     },
     "about": [
         {
-            "aboutParagraph": "My work ethic as a programmer is characterized by dedication, discipline, and a passion for continuous improvement. I approach every project with a strong sense of responsibility, always striving to meet deadlines and exceed expectations. I firmly believe in the importance of thorough planning and organization, which helps me streamline my work process and maintain a high level of productivity"
+            "aboutParagraph": "The same current which flows through a motherboard courses through my veins as I have always been intrigued, exited and fascinated by how technology evolves. My journey started through the physical hardware which was ironic due to the fact that the things i tore apart. I fix them now. Knowing that I had an innate desire for more knowledge I ventured into software and web development, which i completed a six month full-stack development course in. Lets code your ideas to shape our future"
         },
         {
             "profImaArt": "https://i.postimg.cc/vZ3Bqwx9/professional-image.png"
@@ -27,7 +27,7 @@
         {
             "id": 2,
             "year": 2020,
-            "description": "I.T Administrator & Operations Engineer",
+            "description": "I.T Hardware and software support & Operations Engineer - Work Experience",
             "place": "Grassdale High School",
             "certificate": ""
         },
@@ -58,7 +58,8 @@
             "year": "Current",
             "description": "Intern",
             "place": "LC Studio's",
-            "certificate": ""
+            "certificate": "",
+            "subjects": ["Python", "Linux", "C++", "Scrum Hack-a-thon" ]
         }
     ],
     "projects": [
